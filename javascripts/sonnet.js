@@ -2,7 +2,6 @@
 
 console.log("sonnet.js");
 
-
 let sSonnet = document.getElementById('sonnet').innerText;
 
 function myIndex() {
